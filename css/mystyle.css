@@ -29,3 +29,11 @@ h4.ashcolor{
     margin: 5px 5px;
     border-radius: 5px;
 }
+.kevinserif{
+  font-family: "Noto Serif TC", serif;
+}
+.kevinbg{
+    background-image: url("../assets/img/images.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
